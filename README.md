@@ -10,7 +10,7 @@
 
 <h2> Para Executar: </h2>
 
-O projeto possui o arquivo executável la-sintatico/target/la-sintatico-1.0-SNAPSHOT-jar-with-dependencies.jar que deverá ser executado dessa forma: 
+O projeto possui o arquivo executável AlgoritmicaCompiler-1.0-SNAPSHOT-jar-with-dependencies.jar que deverá ser executado dessa forma: 
 
 ```
 java -jar arquivo_executavel entrada saida.txt
@@ -23,10 +23,6 @@ Onde:
   <li> saida.txt: caminho para o arquivo de saída que será gerado</li>
 </ol>
  
- Por exemplo: 
- ```
-java -jar C:\Users\BrunaM\Documents\NetBeansProjects\la-sintatico\target\la-sintatico-1.0-SNAPSHOT-jar-with-dependencies.jar C:\Users\BrunaM\Desktop\programa.txt C:\temp\saida.txt
- ``` 
 
 <h2> Integrantes do Grupo </h2>
 <ol>
